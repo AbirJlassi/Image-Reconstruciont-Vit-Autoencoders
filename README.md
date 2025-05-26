@@ -1,4 +1,3 @@
-# Image-Reconstruciont-Vit-Autoencoders
 # Image Reconstruction Project
 
 A comprehensive implementation of image reconstruction techniques using Vision Transformers (ViT) and Autoencoders. This project explores three different approaches: building a ViT from scratch, using pretrained ViT models, and implementing traditional autoencoders.
