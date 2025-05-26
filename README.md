@@ -67,4 +67,6 @@ Traditional CNN-based autoencoder with encoder-decoder architecture.
 
 ---
 
-⭐ **Star this repository if you found it helpful!**
+### Result Snapshots of AutoEncoder Reconstructions
+
+![image](https://github.com/user-attachments/assets/5433031b-10b8-43fe-991b-2415a577a689)
