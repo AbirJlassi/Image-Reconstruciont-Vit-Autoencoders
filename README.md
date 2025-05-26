@@ -62,8 +62,6 @@ Traditional CNN-based autoencoder with encoder-decoder architecture.
 3. **ViT from scratch** requires more training time but offers full control over architecture
 
 
-- **Email**: your.email@example.com
-- **Project Link**: https://github.com/yourusername/image-reconstruction
 
 ---
 
